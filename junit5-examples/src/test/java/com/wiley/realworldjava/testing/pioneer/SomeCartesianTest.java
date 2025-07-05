@@ -1,4 +1,4 @@
-package com.wiley.realworldjava.testing.assertj;
+package com.wiley.realworldjava.testing.pioneer;
 
 import org.junitpioneer.jupiter.cartesian.CartesianTest;
 
